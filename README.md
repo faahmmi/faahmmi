@@ -13,8 +13,8 @@ I have a passion for continuous learning and collaborating with others to create
 If you're interested in collaborating or have any questions, feel free to reach out to me via email at [fahmimna@gmail.com](https://fahmimna@gmail.com/) I'm always open to discussing exciting projects and new opportunities. Don't forget to follow me on  [LinkedIn](https://www.linkedin.com/in/fahmimna).
  
 <p align="left">
-<a href="https://github.com/fahmimna">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fahmimna&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fahmimna&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/faahmmi">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=faahmmi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=faahmmi&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
